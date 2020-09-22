@@ -19,12 +19,6 @@ Users can see the lastest covid cases
 
 
 
-<img src="https://user-images.githubusercontent.com/17925504/89796069-77e72300-db29-11ea-8684-0e946fbc2521.png" width="400">
-
-
-
-
-
 
 
 
