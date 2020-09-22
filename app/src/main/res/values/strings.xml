@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">coronaTrackerAndroid</string>
+    <string name="title_home">Home</string>
+    <string name="title_country">Countries</string>
+    <string name="title_bluetooth">Bluetooth</string>
+    <string name="title_geofencing">Geofencing</string>
+    <string name="title_news">News</string>
+    <string name="title_developer">About Developer</string>
+    <string name="about">About </string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_maps">Map</string>
+</resources>

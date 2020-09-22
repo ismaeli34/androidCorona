@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/navigation_countries"
+        android:icon="@drawable/ic_language_black_24dp"
+        android:title="@string/title_country" />
+
+
+
+    <item
+        android:id="@+id/navigation_geofencing"
+        android:icon="@drawable/location_1"
+        android:title="@string/title_geofencing" />
+
+    <item
+        android:id="@+id/navigation_news"
+        android:icon="@drawable/ic_chrome_reader_mode_black_24dp"
+        android:title="@string/title_news" />
+
+
+    <item
+        android:id="@+id/navigation_about_developer"
+        android:icon="@drawable/ic_contacts_black_24dp"
+        android:title="@string/about" />
+
+
+
+
+
+</menu>
