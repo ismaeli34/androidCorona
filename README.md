@@ -21,3 +21,7 @@ Users can see the lastest covid cases
 
 
 
+=======
+# androidCorona
+app to track corona cases
+>>>>>>> 38d42b6a3e7464ab424c9655de656fa8cc824f8e
