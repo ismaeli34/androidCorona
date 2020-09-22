@@ -33,6 +33,6 @@ Figure 2: UI Screen 2
 
 
 
-=======
+
 # androidCorona
 app to track corona cases
