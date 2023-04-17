@@ -1,4 +1,5 @@
-# coronaTrackerAndroid
+# Corona Tracker Android Application
+This Corona tracker  application is an android project designed to provide up-to-date information about the COVID-19 pandemic, including statistics on the number of cases, deaths, and recoveries worldwide or in a specific region. These applications can help users stay informed about the spread of the virus and take appropriate measures to protect themselves and others. Corona tracker applications may include features such as interactive maps, graphs and charts, and news feeds from reliable sources. 
 
 
 <h3 align="left">Languages and Tools:</h3>
